@@ -1,6 +1,6 @@
 **<https://github.com/jernejk/xhdmelb2019>**
 
-## **Bronze**: To Do App
+## Bronze: To Do App
 
 PBI:
 
@@ -23,9 +23,9 @@ PBI:
 - User is able to remove an item from the list
 - Completed items should show in the bottom of the list
 
-Note: The data does not need to be saved into a database
+**Note**: The data does not need to be saved into a database
 
-## **Silver**: RSS Feed App
+## Silver: RSS Feed App
 
 ### PBI
 
@@ -58,7 +58,7 @@ You can use this to get the RSS in JSON [https://rss2json.com](https://rss2json.
 - User can disable an RSS feed which will automatically filter out all posts from the list
 - Color code each feed automatically
 
-Note: The data does not need to be saved into a database
+**Note**: The data does not need to be saved into a database
 
 #### Sample Blog sites:
 
@@ -68,14 +68,12 @@ Note: The data does not need to be saved into a database
 - <http://weeklyxamarin.com/issues.rss>
 - <https://lachlanwgordon.com/rss/>
 
-## **Gold **: Trivia App
+## Gold: Trivia App
 
 ### PBI
 
 > As a trivia addict,
-> 
 > I want to respond to questions
-> 
 > So that I can see my score at the end.
 
 ### Acceptance Criteria
