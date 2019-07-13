@@ -73,7 +73,9 @@ You can use this to get the RSS in JSON [https://rss2json.com](https://rss2json.
 ### PBI
 
 > As a trivia addict,
+> 
 > I want to respond to questions
+> 
 > So that I can see my score at the end.
 
 ### Acceptance Criteria
