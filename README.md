@@ -94,3 +94,10 @@ You can use this to get the RSS in JSON [https://rss2json.com](https://rss2json.
 - Let the user start a new game without refreshing the page
 
 **Note**: The data does not need to be saved into a database
+
+
+## Presentations
+
+- 
+- [User Interface Design - The Basics of Xamarin.Forms](https://github.com/kphillpotts/XF-UserInterfaceTechniques/blob/master/MonkeyFest%202018%20-%20Presentation%20-%20Kym%20Phillpotts.pdf)
+- 
