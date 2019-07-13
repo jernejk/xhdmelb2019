@@ -4,26 +4,23 @@
 
 PBI:
 
-As a teenager,
+> As a teenager,
+> 
+> I want to maintain a list of tasks
+> 
+> So I know what to do
 
-I want to maintain a list of tasks
+### Acceptance Criteria
 
-So I know what to do
-
-Acceptance Criteria:
-
-MVP:
+**MVP**:
 
 - User is able to add, via a free text field, a new item to the list
-
 - User is able to mark an item as completed
 
-Gold Plating:
+**Gold Plating**:
 
 - User is able to edit an item in the list
-
 - User is able to remove an item from the list
-
 - Completed items should show in the bottom of the list
 
 Note: The data does not need to be saved into a database
